@@ -4,7 +4,3 @@ Ait,Bangalore
 stash message
 acharya institute of technology
 soladevanahalli
-for to stash apply
-doing stashfor2
-hello world Updated upstream
- Stashed changes Stashed changes
