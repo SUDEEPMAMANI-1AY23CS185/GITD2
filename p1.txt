@@ -1,31 +1,4 @@
 sudeep 
 cse
 Ait,Bangalore
-<<<<<<< Updated upstream
- Updated upstream
-
- Updated upstream
- Updated upstream
-Updated upstream Updated upstream
- Updated upstream
-stash message
-stashing the message2
- Stashed changes
-stash message
-stashing the message2
- Stashed changes
-
-stash message
-stashing the message2
- Stashed change
-stash message
-stashing the message2
- Stashed changes
-stash message
-stashing the message2
- Stashed changes
-
-stash message Stashed changes
-=======
-stash message
->>>>>>> Stashed changes
+soladevanahalli
